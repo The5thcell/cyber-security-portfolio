@@ -1,74 +1,54 @@
-# Welcome to your Lovable project
+# Cyber Security Portfolio 🚀
 
-## Project info
+Welcome to your cutting-edge cyber-security portfolio.
 
-**URL**: https://lovable.dev/projects/7b69145a-ea37-43a7-977f-ec56595ac8dc
+## Editing the Code
 
-## How can I edit this code?
+### Clone & Hack
 
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/7b69145a-ea37-43a7-977f-ec56595ac8dc) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
-
-```sh
-# Step 1: Clone the repository using the project's Git URL.
+```bash
 git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
 cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
 npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+- Built for rapid prototyping.  
+- Hot reloads.  
+- Instant previews.  
+- Just bring Node.js & npm (use nvm for hassle-free setup).
 
-**Edit a file directly in GitHub**
+### Edit Directly on GitHub
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+- Find any file in your repo.
+- Click the pencil (✏️) icon.
+- Edit, commit, done.
 
-**Use GitHub Codespaces**
+### GitHub Codespaces
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+- Launch a cloud dev environment in seconds.
+- Code, commit, push, repeat.
 
-## What technologies are used for this project?
+## Tech Stack
 
-This project is built with:
+- Vite ⚡
+- TypeScript 🦾
+- React 🚨
+- shadcn-ui 🧬
+- Tailwind CSS 🌪️
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Deployment
 
-## How can I deploy this project?
+- Share & publish instantly from your dashboard.
+- Connect a custom domain.  
+- Go global.
 
-Simply open [Lovable](https://lovable.dev/projects/7b69145a-ea37-43a7-977f-ec56595ac8dc) and click on Share -> Publish.
+## Domain Setup
 
-## Can I connect a custom domain to my Lovable project?
+- Go to Project > Settings > Domains.
+- Add and connect your custom domain.
 
-Yes, you can!
+---
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
-"# cyber-security-portfolio" 
+Unleash your security expertise.  
+Dominate the threat landscape.  
+Ship world-class defensive and offensive tooling.
