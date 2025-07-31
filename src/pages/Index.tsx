@@ -719,7 +719,7 @@ const Index = () => {
                 Elite Security Architect & Space Engineer
               </h1>
               <p className="text-2xl text-muted-foreground mb-8 max-w-4xl mx-auto leading-relaxed">
-                Senior Software Engineer  & Cyber Security Engineer specializing in  Threat Detection, Incidence Response
+                Senior Software Engineer  & Cyber Security Engineer specializing in Network secruity, Threat Detection, Incidence Response
                 Zero-Day Research, Critical Infrastructure Security, and Mission-Critical Space Systems.
               </p>
               <div className="flex flex-wrap justify-center gap-3 mb-12">
